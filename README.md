@@ -1,9 +1,11 @@
 # 🔍 AI Transparency Visualizer: LLM vs. Supervised Learning
 
 > **An interactive 3D UX demonstration designed for the Independent Evaluation Unit (IEU) at the Green Climate Fund (GCF).**
+<img width="2214" height="1455" alt="image" src="https://github.com/user-attachments/assets/9c3907d4-1269-4510-a316-2094b49e440f" />
 
-<!-- 👇 PASTE YOUR SCREENSHOT/GIF LINK HERE LATER 👇 -->
-![Visualization Preview](https://2dp6z2-3000.csb.app/)
+
+
+
 
 ## 🎯 Project Context
 **Presentation:** *Advancing Evaluation Methods in the Age of AI*  
@@ -37,7 +39,7 @@ This web-based simulation demonstrates two states of algorithmic transparency:
 *   **Deployment:** WebGL (Runs in browser).
 
 ## 🚀 Usage
-1.  **Launch the Demo:** [Insert Link to your Live Demo Here]
+1.  **Launch the Demo:** [[Insert Link to your Live Demo Here](https://2dp6z2-3000.csb.app/)]
 2.  **Toggle the Simulation:** Click the button at the bottom center to switch between "Black Box" and "Transparent" modes.
 
 ---
