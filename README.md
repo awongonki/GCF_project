@@ -3,7 +3,7 @@
 > **An interactive 3D UX demonstration designed for the Independent Evaluation Unit (IEU) at the Green Climate Fund (GCF).**
 
 <!-- 👇 PASTE YOUR SCREENSHOT/GIF LINK HERE LATER 👇 -->
-![Visualization Preview](https://via.placeholder.com/800x400?text=Black+Box+vs+Glass+Box+Simulation)
+![Visualization Preview](https://2dp6z2-3000.csb.app/)
 
 ## 🎯 Project Context
 **Presentation:** *Advancing Evaluation Methods in the Age of AI*  
